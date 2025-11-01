@@ -35,5 +35,7 @@
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/your-username/class-roll-call.git
+https://github.com/Thedustye-1/Class-roll-call.git
 cd class-roll-call
+```
+或者直接在release界面下载也可以！
