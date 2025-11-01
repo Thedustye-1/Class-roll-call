@@ -38,4 +38,4 @@
 https://github.com/Thedustye-1/Class-roll-call.git
 cd class-roll-call
 ```
-或者直接在release界面下载也可以！
+或者直接在[release界面](https://github.com/Thedustye-1/Class-roll-call/releases)下载也可以！
